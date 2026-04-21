@@ -1,37 +1,70 @@
-![Header](./header.png)
+<p align="center">
+  <img src="./media/header.png" alt="Header" width="100%"/>
+</p>
 
-<h1 align="center">LunarKrystal</h1>
+<h1 align="center">Hi 👋, I'm LunarKrystal</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&center=true&vCenter=true&lines=NodeJS+%7C+Python+%7C+C%2B%2B;Bot+Developer;Fca+Developer;Always+learning+new+things..." alt="Typing"/>
+</p>
+
+---
+
+## 🚀 About Me
+- 💻 **Dev chính:** NodeJS / Python
+- ⚙️ **Focus:** Bot development, Automation, API Architecture
+- 🧠 **Philosophy:** Always prioritize Performance & Clean Code
+- 🚧 **Currently working on:** Virtual currency systems & Scalable Chatbot architectures
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,js,python,cpp,git,github,linux,ubuntu,vscode,docker,mysql,sequelize" alt="Skills"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LunarKrystal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Stats"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=LunarKrystal&theme=tokyonight&hide_border=true&background=00000000" alt="Streak"/>
+</p>
+
+---
+
+## 📈 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunarKrystal&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages"/>
+</p>
+
+---
+
+## 🌐 Connect with me
+
+<p align="center">
+  <a href="https://m.me/LunarKrystal">
+    <img src="https://img.shields.io/badge/Messenger-0088cc?style=for-the-badge&logo=messenger&logoColor=white" alt="Messenger"/>
+  </a>
   <a href="https://github.com/LunarKrystal">
-    <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=LunarKrystal&countColorcountColor&countColor=%23006EFF" alt="Profile Views"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="https://github.com/LunarKrystal?tab=followers">
-    <img height="25" src="https://img.shields.io/github/followers/LunarKrystal?color=4a12ba&style=for-the-badge&logo=github&label=Follow" alt="Followers"/>
-  </a>
-  <a href="https://github.com/LunarKrystal?tab=stars">
-    <img height="25" src="https://img.shields.io/github/stars/LunarKrystal?color=f429ff&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
-  </a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LunarKrystal/LunarKrystal/media/github-user-contribution.svg" alt="Snake" width="600"/>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,nodejs,cpp,js" alt="Skills"/>
+  <img src="./media/footer.png" alt="Footer" width="100%"/>
 </p>
-
-<br>
-
-<p align="center">
-  <a href="https://m.me/Khoi.Meta" target="_blank">
-    <img src="https://img.shields.io/badge/Messenger-Contact%20Me-0088cc?style=for-the-badge&logo=messenger&logoColor=white" alt="Messenger"/>
-  </a>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=LunarKrystal&title_color=674fc9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=674fc9&hide_title=true&count_private=true" alt="GitHub Stats"/>
-</p>
-
-![Footer](./footer.png)
