@@ -11,7 +11,7 @@
 ---
 
 ## 🚀 About Me
-- 💻 **Dev chính:** NodeJS / Python
+- 💻 **Main Language:** Javascript / Python
 - ⚙️ **Focus:** Bot development, Automation, API Architecture
 - 🧠 **Philosophy:** Always prioritize Performance & Clean Code
 - 🚧 **Currently working on:** Virtual currency systems & Scalable Chatbot architectures
@@ -60,7 +60,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LunarKrystal/LunarKrystal/media/github-user-contribution.svg" alt="Snake" width="600"/>
+  <img src="./media/github-user-contribution.svg" alt="Snake" width="600"/>
 </p>
 
 <br>
